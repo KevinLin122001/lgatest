@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1705621820" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/spiControl.dcp">
+<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1705680334" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/spiControl.dcp">
   <File Type="PA-TCL" Name="spiControl.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="spiControl_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="spiControl_reports.tcl"/>
